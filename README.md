@@ -2,6 +2,10 @@
 
 A deep learning image classification project built with **PyTorch, MobileNetV2, transfer learning, and Streamlit**. Upload an image to predict whether it contains a cat or a dog.
 
+## Live Demo
+
+[Launch the Deep Learning Image Classifier (Cat & Dog) App](https://deep-learning-image-classifier-byabir.streamlit.app/)
+
 ## Overview
 
 This project uses a pretrained MobileNetV2 convolutional neural network (CNN). The pretrained feature extractor is frozen, and the final classification layer is trained to distinguish between cats and dogs.
